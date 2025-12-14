@@ -1,10 +1,11 @@
 # Car Price Predictor
 This repository provides a foundational notebook designed to introduce students to machine learning using sklearn. The example focuses on a [regression](https://en.wikipedia.org/wiki/Regression_analysis) problem, utilizing the [car insurance dataset](https://www.openml.org/search?type=data&sort=runs&status=active&qualities.NumberOfClasses=lte_1&id=195) to predict the selling price of a car, which is a [continuous variable](https://en.wikipedia.org/wiki/Continuous_or_discrete_variable). The primary goal of this assignment is to familiarize students with regression modelling and evaluate model training outcomes by means of sklearn.
 
-![house-price-predictor](https://github.com/Fontys/car_price_predictor/blob/main/BANNER.jpeg))
+![house-price-predictor](https://github.com/Fontys/car_price_predictor/blob/main/BANNER.jpeg)
 *Image by Stable Diffusion: a robot selling cars*
 
-This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course: 🚗 [Car price predictor](https://github.com/Fontys/car_price_predictor/)   🛳️ [Titanic Survival Rater](https://github.com/Fontys/titanic_survival_rater/)   <続く>   📧 [Sentiment Analyser](https://github.com/Fontys/sentiment_analyser/)   🚲 [Bike Rental Forecaster](https://github.com/Fontys/bike_rental_forecaster/) Feel free to learn from the other parts too!
+This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course: 🚗 [Car price predictor](https://github.com/Fontys/car_price_predictor/)   🛳️ [Titanic Survival Rater](https://github.com/Fontys/titanic_survival_rater/)   <続く>   📧 [Sentiment Analyser](https://github.com/Fontys/sentiment_analyser/)   🚲 [Bike Rental Forecaster](https://github.com/Fontys/bike_rental_forecaster/) 
+Feel free to learn from the other parts too!
 
 ## 📚 Preparation
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
