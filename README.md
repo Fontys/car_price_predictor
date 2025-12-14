@@ -5,11 +5,12 @@ This repository provides a foundational notebook designed to introduce students 
 *Image by Stable Diffusion: a robot selling cars*
 
 This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course: 🚗 [Car price predictor](https://github.com/Fontys/car_price_predictor/)   🛳️ [Titanic Survival Rater](https://github.com/Fontys/titanic_survival_rater/)   <続く>   📧 [Sentiment Analyser](https://github.com/Fontys/sentiment_analyser/)   🚲 [Bike Rental Forecaster](https://github.com/Fontys/bike_rental_forecaster/) 
+
 Feel free to learn from the other parts too!
 
 ## 📚 Preparation
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
- - You know the basics of sci-kit learn ()
+ - You know the basics of [scikit-learn](https://scikit-learn.org/stable/getting_started.html)
  - You know how to load data from and [work with ARFF files](https://www.geeksforgeeks.org/pandas/reading-an-arff-file-to-pandas-dataframe/)
  - You know the basic structure of a [linear regression](https://scikit-learn.org/stable/modules/linear_model.html) project
  - You understand the reasons for making [train, validate and test](https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets) datasets
