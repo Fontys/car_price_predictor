@@ -4,7 +4,7 @@ This repository provides a foundational notebook designed to introduce students 
 ![house-price-predictor](https://github.com/Fontys/car_price_predictor/blob/main/BANNER.jpeg)
 *Image by Stable Diffusion: a robot selling cars*
 
-This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course: 🚗 [Car price predictor](https://github.com/Fontys/car_price_predictor/)   🛳️ [Titanic Survival Rater](https://github.com/Fontys/titanic_survival_rater/)   <続く>   📧 [Sentiment Analyser](https://github.com/Fontys/sentiment_analyser/)   🚲 [Bike Rental Forecaster](https://github.com/Fontys/bike_rental_forecaster/) 
+This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. This repo belongs to a five part course: 🚗 [Car price predictor](https://github.com/Fontys/car_price_predictor/)   🛳️ [Titanic Survival Rater](https://github.com/Fontys/titanic_survival_rater/)   📧 [Sentiment Analyser](https://github.com/Fontys/sentiment_analyser/)   🚲 [Bike Rental Forecaster](https://github.com/Fontys/bike_rental_forecaster/) 
 
 Feel free to learn from the other parts too!
 
