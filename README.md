@@ -33,4 +33,4 @@ This notebook is an example on how to get started, it is open for improvements a
 
 ## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
-> Konings, Hans H.H.M. (2025) "House Price Predictor" GitHub: https://github.com/Fontys/car_price_predictor/
+> Konings, Hans H.H.M. (2025) "Car Price Predictor" GitHub: https://github.com/Fontys/car_price_predictor/
