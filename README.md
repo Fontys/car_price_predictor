@@ -32,5 +32,5 @@ This notebook is an example on how to get started, it is open for improvements a
 - Regression models can be sensitive to the data being distributed normally. Is it in this project? If not, what can we do?
 
 ## ⭐ Citation & Star
-If you use my work please cite and star ⭐ this repo. Thanks!
-> Konings, Hans H.H.M. (2025) "Car Price Predictor" GitHub: https://github.com/Fontys/car_price_predictor/
+If you use our work please cite and star ⭐ this repo. Thanks!
+> Michielsen, Bas S.H.T & Konings, Hans H.H.M. (2025) "Car Price Predictor" GitHub: https://github.com/Fontys/car_price_predictor/
