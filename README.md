@@ -1,4 +1,4 @@
-# Car Price Predictor
+# 🚗 Car Price Predictor
 This repository provides a foundational notebook designed to introduce students to machine learning using sklearn. The example focuses on a [regression](https://en.wikipedia.org/wiki/Regression_analysis) problem, utilizing the [car insurance dataset](https://www.openml.org/search?type=data&sort=runs&status=active&qualities.NumberOfClasses=lte_1&id=195) to predict the selling price of a car, which is a [continuous variable](https://en.wikipedia.org/wiki/Continuous_or_discrete_variable). The primary goal of this assignment is to familiarize students with regression modelling and evaluate model training outcomes by means of sklearn.
 
 ![house-price-predictor](https://github.com/Fontys/car_price_predictor/blob/main/BANNER.jpeg)
@@ -33,4 +33,4 @@ This notebook is an example on how to get started, it is open for improvements a
 
 ## ⭐ Citation & Star
 If you use our work please cite and star ⭐ this repo. Thanks!
-> Michielsen, Bas S.H.T & Konings, Hans H.H.M. (2025) "Car Price Predictor" GitHub: https://github.com/Fontys/car_price_predictor/
+> Michielsen, Bas S.H.T. & Konings, Hans H.H.M. (2025) "Car Price Predictor" GitHub: https://github.com/Fontys/car_price_predictor/
